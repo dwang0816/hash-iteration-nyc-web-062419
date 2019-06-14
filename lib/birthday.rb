@@ -12,4 +12,6 @@ def happy_birthday(birthday_kids)
 end
 
 
-def happy_birthday_under 
+def happy_birthday_under_12(birthday_kids)
+  birthday_kids.each do |name, age|
+    if age > 12
