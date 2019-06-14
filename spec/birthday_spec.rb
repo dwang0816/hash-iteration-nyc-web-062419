@@ -31,4 +31,4 @@ end
 
 def age_appropriate_birthday(bday_kids)
   bday_kids.each do |suite, name|
-    if suite 
+    if 
