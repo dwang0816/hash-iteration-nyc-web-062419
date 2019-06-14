@@ -1,4 +1,4 @@
-require_relative "../lib/cruise_ship.rb"
+require_relative "../lib/cruise_s.rb"
 
 
 describe "#select_winner" do
